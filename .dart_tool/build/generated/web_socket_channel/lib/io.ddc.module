@@ -1,0 +1,1 @@
+{"p":["web_socket_channel","lib/io.dart"],"s":[["web_socket_channel","lib/io.dart"],["web_socket_channel","lib/src/sink_completer.dart"]],"d":[["async","lib/async.dart"],["stream_channel","lib/stream_channel.dart"],["web_socket_channel","lib/src/channel.dart"]],"m":false,"is":false,"pf":"ddc"}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["socket_tools|lib/socket_receive_type.dart","socket_tools|lib/websocket.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert"],"hasMain":false}

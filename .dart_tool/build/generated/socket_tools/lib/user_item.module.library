@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/cupertino.dart","flutter_web|lib/material.dart","socket_tools|lib/connect.dart","socket_tools|lib/text_button.dart","socket_tools|lib/user.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["math"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/material.dart","socket_tools|lib/socket_page.dart","socket_tools|lib/home_page.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":true}
